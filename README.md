@@ -1,1 +1,3 @@
-# projeto-bootcamp-modulo-2-data-science
+# Data Science - Análise Exploratória Cobertura da Imunização para Febre Amarela
+
+Produzido com o intuito de estudar/treinar analise exploratória com dados disponibilizados pelo datasus!
